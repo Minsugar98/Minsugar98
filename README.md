@@ -1,24 +1,25 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=민수%20&fontSize=80" />	
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=120&lines=console.log(%22%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%F0%9F%91%8B+%2C+%EA%B9%80%EB%AF%BC%EC%88%98%EC%9E%85%EB%8B%88%EB%8B%A4.%22)" alt="Typing SVG" /></a>
 </div>
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
+
+  
 <div align="center">
-	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+	<img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white%22" />
+	<img src= "https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5&logoColor=white%22" />
+	<img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=white%22" />
+	<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=white%22" />
 	<br>
-	<img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white"> 
-  <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=Prisma&logoColor=white">
+	<img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white%22"> 
+  <img src="https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white%22"> 
+  <img src="https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=Prisma&logoColor=white%22">
 	<br>
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white">
+	<img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL&logoColor=white%22" />
+  <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL&logoColor=white%22">
   
 </div>
 <br>
@@ -26,9 +27,9 @@
 	<p>🛠 Tools 🛠</p>
 </div>
 <div align=center>
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+	<img src="https://img.shields.io/badge/Visual%20Studio-black?style=for-the-badge&logo=VisualStudioCode&logoColor=white%22" />
 	<br>
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white%22" />
 </div>
 <br>
 <div align=center>
@@ -36,21 +37,15 @@
 </div>
 <div align=center>
 	<a href="https://sugar98.tistory.com/">
-		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
+		<img src="https://img.shields.io/badge/%EB%B8%94%EB%A1%9C%EA%B7%B8%20%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0-black?style=for-the-badge&logo=Tistory&logoColor=white%22" />
   </a>
 	<br>
 </div>
 <div align=center>
 	<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minsugar98&layout=donut&show_icons=true&theme=vue"width=38% />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Minsugar98&show_icons=true&theme=vue" width=56% />
-</a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Minsugar98&theme=vue" width=94%/>
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Minsugar98&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=161b22" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Minsugar98&date_format=n%2Fj%5B%2FY%5D&border=FFFFFF&ring=2BBC8A&currStreakNum=FFFFFF&stroke=FFFFFF&background=161B22&sideNums=FFFFFF&sideLabels=2BBC8A&dates=ECECEC&currStreakLabel=2BBC8A&card_height=206" />
+
 
 <img src="https://github.com/Minsugar98/Minsugar98/blob/output/github-snake.svg" width="100%">
 
