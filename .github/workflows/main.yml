@@ -22,7 +22,7 @@ jobs:
           github_user_name: Minsugar98
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-dark.svg?color_snake=#1E90FF&color_dots=#00FF00,#32CD32,#2E8B57,#228B22,#00FA9A,#3CB371
 
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
