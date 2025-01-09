@@ -35,7 +35,7 @@
 <div align=center>
 	<br>
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Minsugar98&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=161b22" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Minsugar98&date_format=n%2Fj%5B%2FY%5D&border=FFFFFF&ring=2BBC8A&currStreakNum=FFFFFF&stroke=FFFFFF&background=161B22&sideNums=FFFFFF&sideLabels=2BBC8A&dates=ECECEC&currStreakLabel=2BBC8A&card_height=206" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Minsugar98&date_format=n%2Fj%5B%2FY%5D&border=FFFFFF&ring=2BBC8A&currStreakNum=FFFFFF&stroke=FFFFFF&background=161B22&sideNums=FFFFFF&sideLabels=2BBC8A&dates=ECECEC&currStreakLabel=2BBC8A&card_height=206" />
 
 
 <img src="https://github.com/Minsugar98/Minsugar98/blob/output/github-snake.svg" width="100%">
