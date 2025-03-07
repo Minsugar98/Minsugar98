@@ -39,8 +39,6 @@
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Minsugar98&date_format=n%2Fj%5B%2FY%5D&border=FFFFFF&ring=2BBC8A&currStreakNum=FFFFFF&stroke=FFFFFF&background=161B22&sideNums=FFFFFF&sideLabels=2BBC8A&dates=ECECEC&currStreakLabel=2BBC8A&card_height=206" />
 
 
-<img src="https://github.com/Minsugar98/Minsugar98/blob/output/github-snake.svg" width="100%">
-
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
